@@ -6,9 +6,10 @@
 
 - Go to the bottom where it says linux
 
-- Look for /boot/vmlinuz-5.......( "vvmlinuz" not "vmlinux" )got to the end of the line
+- Look for `/boot/vmlinuz-5....` ( "`vvmlinuz`" not "`vmlinux`" )
+  - go to the end of the line
 
-- Type "single" and hit f10
+- Type "single" and hit `f10`
 
 __We are now booting as "single user mode"__
 
@@ -16,8 +17,8 @@ __We are now booting as "single user mode"__
 Now,
 
 
-- Type "passwd" - to change the password
+- Type "`passwd`" - to change the password
 
-- Input your new password - setting the new password
+- Input your __new password__
 
-- Reboot - to reboot the computer
+- `reboot`
