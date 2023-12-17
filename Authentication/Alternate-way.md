@@ -1,5 +1,6 @@
 # Using Grub boot menu 
-( __if root account is disabled , theres a possibility this might not work__ )
+
+( Using this method ,it would not be a sudoer's account, but rather root.)
 
 - While in Grub bootloader ( option = Debian testing probably )
 
